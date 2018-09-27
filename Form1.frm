@@ -1999,6 +1999,7 @@ Private Sub Form_Load()
     
     Me.txtS = ""
     
+    
     Ws1(0).Bind 11222, Me.Ws1(0).LocalIP
     'Ws1(0).Bind 11222, "192.168.1.253"
    ' Ws1(0).LocalPort = 12124
